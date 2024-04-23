@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "marks.h": "c",
+        "stdio.h": "c"
+    }
+}
